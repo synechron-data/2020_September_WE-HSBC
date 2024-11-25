@@ -1,0 +1,15 @@
+Primitive Types - Immutable
+
+	Primitive Values
+		undefined
+		null
+
+	Primitive Datatypes
+		string		String()
+		number		Number()
+		boolean		Boolean()
+		symbol		Symbol()
+
+Object Types - Mutable
+	
+		object		Object()
